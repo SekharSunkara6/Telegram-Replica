@@ -7,12 +7,12 @@ https://tinyurl.com/stx6jcvc
 
 ## Technologies Used
 
-1.React.js
-2.JavaScript
-3.Html5
-4.bootstrap
-5.css3
-6.Api EndPoints
+1. React.js
+2. JavaScript
+3. Html5
+4. bootstrap
+5. css3
+6. Api EndPoints
 
 ## Features
 
