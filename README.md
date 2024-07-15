@@ -1,23 +1,26 @@
-# BeyondChats React Developer Assignment
+# Telegram-Replica based React Developer Assignment
 
-This project is a replica of the Telegram user interface built using React, React Router, and various custom components and hooks. The application is designed to be responsive and provides a chat interface similar to Telegram.
+This project is to create a pixel-perfect replica of the telegram messaging application - both in desktop view and mobile view using ReactJS.
 
 ## Live Demo
-https://nvk-beyondchats.netlify.app/
-
-## Features
-
-- Responsive UI that adapts to different screen sizes.
-- Chat interface with a list of chats and chat messages.
-- Navigation between chat lists and individual chat messages.
-- Infinite scrolling for chat messages.
-- Light and dark theme support.
+https://tinyurl.com/stx6jcvc
 
 ## Technologies Used
 
-- React
-- React Router
-- Bootstrap
-- Custom Hooks
-- Context API
+1.React.js
+2.JavaScript
+3.Html5
+4.bootstrap
+5.css3
+6.Api EndPoints
+
+## Features
+
+1. End-to-End Encryption
+2. Responsive User-Interface
+3. Dark -- Light toggle
+4. Channels
+5. Customization
+
+
 
